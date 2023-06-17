@@ -7,6 +7,7 @@ We have implemented and evaluated several classification models to identify the 
 - Vision Transformer
 - EfficentNet
 - Swin Transformer
+
 For each model, we have performed extensive testing and experimentation with different hyperparameters to identify the optimal configuration that yields the highest accuracy. The model selection process is based on comprehensive evaluations and comparisons of their performance on the dataset.
 
 Data Augmentation
